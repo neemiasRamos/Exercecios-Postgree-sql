@@ -1,5 +1,4 @@
-# uri-judge-exercicios-sql
-https://www.urionlinejudge.com.br/judge/pt/problems/index/9
+# Exercícios postgresql
 
 1. 2602		Select Básico
 2. 2603		Endereço dos Clientes
