@@ -25,3 +25,12 @@
 23. 2624		Quantidades de Cidades por Clientes
 24. 2625		Máscara de CPF
 25. 2737		Advogados	
+26. 2738		Concurso
+27. 2739		Dia de Pagamento
+28. 2740		Liga
+29. 2741		Notas dos Alunos
+30. 2742		O Multiverso de Richard
+31. 2743		Quantidade de Caracteres
+32. 2744		Senhas
+33. 2745		Taxas
+34. 2746		Virus
