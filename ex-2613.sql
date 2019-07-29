@@ -4,7 +4,6 @@ CREATE TABLE prices (
   value numeric
 );
 
-
 CREATE TABLE movies (
   id numeric PRIMARY KEY,
   name varchar(50),
